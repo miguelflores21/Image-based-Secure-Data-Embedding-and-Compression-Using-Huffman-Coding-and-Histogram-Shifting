@@ -54,7 +54,7 @@ This system allows you to:
 ### Quick Install
 ```bash
 # Clone the repository
-git clone https://github.com/username/Image-based-SecureData-Embedding-and-Compression.git
+git clone https://github.com/Sudeep72/Image-based-Secure-Data-Embedding-and-Compression-Using-Huffman-Coding-and-Histogram-Shifting.git
 cd Image-based-SecureData-Embedding-and-Compression
 
 # Install dependencies
@@ -126,10 +126,6 @@ python huffman.py
 | Compression | None | Huffman encoding |
 | Quality Analysis | Basic | Comprehensive |
 | Security | Basic hiding | Multi-layer keys |
-
-## 🎥 Demo
-
-**YouTube Demo**: [Watch the complete workflow](https://youtu.be/BuLFBSFdZBw)
 
 ## 📈 Example Results
 
